@@ -25,5 +25,6 @@ O EcoData visa fornecer uma plataforma digital que:
 - **Google Slides / Canva** – Apresentações do projeto em pitch
 
 ---
+![image](https://github.com/user-attachments/assets/bed87750-c260-4df4-b576-f6cc848806f6)
 
 
