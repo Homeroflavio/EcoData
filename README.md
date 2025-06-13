@@ -22,9 +22,8 @@ O EcoData visa fornecer uma plataforma digital que:
 - **GitHub** – Controle de versão
 - **HTML/CSS/JS (em breve)** – Implementação futura
 - **Power BI / Google Data Studio** – BI (dados de coleta)
-- **Google Slides / Canva** – Apresentações do projeto
+- **Google Slides / Canva** – Apresentações do projeto em pitch
 
 ---
 
-## 📁 Estrutura do Repositório
 
